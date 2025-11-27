@@ -222,8 +222,27 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 10%;
 }
 
-main-con-2-img img {
-    width: 500px;
+.main-con-2-img img {
+    width: 90%;
+}
+
+.text-contant h1 span{
+    color: #77429a;
+}
+
+.text-contant-2-1 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+text-con-2 p{
+    margin: 0;
+}
+
+text-con-2 h1 {
+    margin: 0;
 }
